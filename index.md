@@ -2,7 +2,7 @@
 ![ChangeMe](Lerino_neu.png)
 
 
-# Genähtes, Geplotettes und Kreatives
+# Genähtes, Geplottetes und Kreatives
 
 Hallo,
 

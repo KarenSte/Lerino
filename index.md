@@ -18,4 +18,4 @@ Du kannst mir auch eine Email an folgende Adresse schreiben:
 ## post@lerino.de
 
 Viele Grüße
-# Karen Stender
+### Karen Stender

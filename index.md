@@ -2,7 +2,7 @@
 ![ChangeMe](Lerino_neu.png)
 
 
-## Genähtes, Geplotettes und Kreatives
+# Genähtes, Geplotettes und Kreatives
 
 Hallo,
 
@@ -15,4 +15,4 @@ Alle meine Produkte findest du auf Etsy unter:
 
 Du kannst mir auch eine Email an folgende Adresse schreiben:
 
-### post@lerino.de
+## post@lerino.de

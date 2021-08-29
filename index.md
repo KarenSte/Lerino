@@ -1,20 +1,13 @@
 =====================
 
-## Ian O'Byrne
+## Lerino
 
-### Educator, Researcher, Learner 
+### Genähtes, Geplotettes und Kreatives
 
 ![ChangeMe](https://live.staticflickr.com/1516/26082296122_f2675d3d87_o.jpg)
 
 ![text](https://www.publicdomainpictures.net/pictures/350000/nahled/apple-1591708617vbm.jpg)
 
-wiobyrne.com
-
-@wiobyrne
-
-linkedin.com/in/CHANGEME
-
-github.com/CHANGEME
 
 =====================
 
